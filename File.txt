@@ -1,0 +1,5 @@
+touch Filename.txt      ---- uses to create a file in the folder
+touch Filename.docx
+touch Filename.xls
+
+ 
